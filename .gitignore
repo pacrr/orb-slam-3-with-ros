@@ -91,3 +91,8 @@ my_settings.txt
 borrar/*
 
 */ExecMean.txt
+
+Examples_old/ROS/devel
+Examples_old/ROS/build
+Examples_old/ROS/.catkin_workspace
+Examples_old/.catkin_workspace
